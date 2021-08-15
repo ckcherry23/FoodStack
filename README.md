@@ -16,5 +16,3 @@ Group food-ordering app by Team APPetite, Artemis (Extreme) level, Orbital 2021.
 - Google Maps API
 - Braintree Sandbox API
 - Git + Github
-
-(Forked by Charisma Kausar)
